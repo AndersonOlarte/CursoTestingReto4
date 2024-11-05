@@ -8,11 +8,6 @@ This project uses [Playwright](https://playwright.dev/) for automated end-to-end
 - [Test Coverage](#test-coverage)
 - [Tech Stack](#tech-stack)
 - [Setup](#setup)
-- [Running Tests](#running-tests)
-- [Writing Tests](#writing-tests)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
